@@ -1,4 +1,4 @@
-- 🏫 I am currently studying BS in Computer Engineering at Cebu Institute of Technology - University
+- 🏫 I am currently studying **BS in Computer Engineering** at **Cebu Institute of Technology - University**
 
 - 🕒 I'm either solving Math problems, playing chess, or just messing with my phone in my free time
 
