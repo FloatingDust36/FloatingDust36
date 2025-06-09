@@ -8,4 +8,4 @@
 
 - 📫 How to reach me **johnpeter.diongzon.pestano@gmail.com**
 
-- ⚡ Fun fact **I’m the type to lock in on what truly interests me, while my weakness is that if something doesn’t spark my interest, it’s easy for me to drift away**
+- ⚡ Fun fact: **I’m the type to lock in on what truly interests me, while my weakness is that if something doesn’t spark my interest, it’s easy for me to drift away**
