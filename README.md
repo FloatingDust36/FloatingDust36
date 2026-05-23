@@ -2,17 +2,22 @@
 <h2 align="center">Computer Engineering Student | AI & Full-Stack Developer</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/john-peter-pestaño">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <img width="10"/>
-  <a href="mailto:johnpeter.diongzon.pestano@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="https://www.linkedin.com/in/john-peter-pestaño"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:johnpeter.diongzon.pestano@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
   I am a versatile software engineer currently pursuing my BS in Computer Engineering at the Cebu Institute of Technology-University (Expected 2027). I specialize in architecting end-to-end platforms across full-stack web and cross-platform mobile environments, with a deep passion for deploying machine learning pipelines, predictive models, and Retrieval-Augmented Generation (RAG) systems.
+</p>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FloatingDust36/FloatingDust36/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FloatingDust36/FloatingDust36/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/FloatingDust36/FloatingDust36/output/pacman-contribution-graph-dark.svg">
+  </picture>
 </p>
 
 ---
@@ -107,22 +112,10 @@
   </a>
 </p>
 
----
-
-<h2 align="center">Problem Solving & Activity</h2>
-
 <p align="center">
   <a href="https://leetcode.com/floatingdust36/">
     <img src="https://leetcard.jacoblin.cool/floatingdust36?theme=dark&font=Inter&ext=activity" height="220" alt="LeetCode Stats">
   </a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FloatingDust36/FloatingDust36/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FloatingDust36/FloatingDust36/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/FloatingDust36/FloatingDust36/output/pacman-contribution-graph-dark.svg">
-  </picture>
 </p>
 
 ---
