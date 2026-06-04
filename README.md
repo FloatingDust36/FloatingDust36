@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I am a versatile software engineer currently pursuing my BS in Computer Engineering at the Cebu Institute of Technology-University. I have extensive experience architecting end-to-end platforms across full-stack web and cross-platform mobile environments. However, my true passion lies in Artificial Intelligence and Machine Learning—specifically in building intelligent, scalable systems. I specialize in architecting generative AI and RAG workflows, deploying real-time edge AI solutions, and translating complex data into actionable, predictive insights. To continuously push my boundaries in this space, I am currently advancing my expertise by studying Data Science on DataCamp.
+  I am a versatile software engineer currently pursuing my BS in Computer Engineering at the Cebu Institute of Technology-University. I have extensive experience architecting end-to-end platforms across full-stack web and cross-platform mobile environments. However, my true passion lies in Artificial Intelligence and Machine Learning—specifically in building intelligent, scalable systems. I specialize in architecting generative AI and RAG workflows, and translating complex data into actionable, predictive insights. To continuously push my boundaries in this space, I am currently advancing my expertise by studying Data Science on DataCamp.
 </p>
 
 ---
